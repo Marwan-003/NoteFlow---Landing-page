@@ -16,7 +16,7 @@ import FAQs from "./components/sections/FAQs/FAQs";
 import Testimonials from "./components/sections/Testimonials/Testimonials";
 
 // footer
-import Footer from "./components/sections/footer";
+import Footer from "./components/sections/Footer";
 
 //Modal
 import Modal from "./components/sections/Modal/Modal";
